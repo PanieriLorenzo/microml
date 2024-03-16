@@ -1,6 +1,6 @@
-defmodule Microml do
+defmodule MicroML do
   @moduledoc """
-  Documentation for `Microml`.
+  Documentation for `MicroML`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Microml do
 
   ## Examples
 
-      iex> Microml.hello()
+      iex> MicroML.hello()
       :world
 
   """

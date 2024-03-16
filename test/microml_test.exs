@@ -1,8 +1,8 @@
-defmodule MicromlTest do
+defmodule MicroMLTest do
   use ExUnit.Case
-  doctest Microml
+  doctest MicroML
 
   test "greets the world" do
-    assert Microml.hello() == :world
+    assert MicroML.hello() == :world
   end
 end

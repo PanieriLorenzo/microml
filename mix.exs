@@ -1,4 +1,4 @@
-defmodule Microml.MixProject do
+defmodule MicroML.MixProject do
   use Mix.Project
 
   def project do
